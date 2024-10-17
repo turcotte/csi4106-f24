@@ -4,7 +4,7 @@
 
 The dataset for assignment 3 can be found here:
 
-- [github.com/turcotte/csi4106-f24/tree/main/assignments-data/a2](https://github.com/turcotte/csi4106-f24/tree/main/assignments-data/a2)
+- [github.com/turcotte/csi4106-f24/tree/main/assignments-data/a3](https://github.com/turcotte/csi4106-f24/tree/main/assignments-data/a3)
 
 In your notebook, you can access and read the data directly from this GitHub repository.
 
